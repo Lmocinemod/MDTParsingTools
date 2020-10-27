@@ -1,0 +1,20 @@
+HertzDevil:
+HertzDevil wrote a Lua script named "MDRV2 MDT to MML unconverter," upon which
+mdt_decomp_rip.py is based.
+Lmocinemod's attempts to contact HertzDevil failed, so they will assume that
+the script is licensed under GPL3 until informed otherwise.
+The script can be found here:
+https://gist.github.com/HertzDevil/036304c692b0f26b7a9d7cfe1126a0ac
+-GitHub: https://github.com/HertzDevil/
+-YouTube: https://www.youtube.com/user/hertzdevil/
+-Bandcamp: https://hertzdevil.bandcamp.com/
+-SoundCloud: https://soundcloud.com/HertzDevil/
+-Twitter: https://twitter.com/HertzDevil/
+
+MarkCWirt:
+MidiFile.py is from the MIDIUtil library by MarkCWirt. Source code is here:
+https://github.com/MarkCWirt/MIDIUtil
+This file is located in /src/midiutil
+Only this file was included, as I don't have any use for the others.
+-GitHub: https://github.com/MarkCWirt/
+-Website: https://www.pataphysical.info/

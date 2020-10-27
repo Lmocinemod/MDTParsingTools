@@ -1,0 +1,131 @@
+@:0 N1 @0 - most files
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31 15 31 15 15  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:1 N1 @1 - most files
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31  9  0  5 15  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:2 N1 @2 - most files
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31  0  0 15  0  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:3 N1 @3 - most files
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31 18  0 15 15  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:4 N1 @0 - ST2.MDT
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31  8  0  8 15  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:5 N1 @1 - ST2.MDT
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31  8  0  4 15  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:6 N1 @2 - ST2.MDT
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   24  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31  0  0  0  0  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 0 0 0 0 0 0 0 0 0 0
+
+@:7 N2 @0 - most files
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   64  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31 0 0 0 0 0 0 0 0 0 0
+C1: 31 0 0 0 0 0 0 0 0 0 0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 17 31  8 15  0  0   1   0   0    0
+
+@:8 N2 @0 - ST2.MDT
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   64  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31 0 0 0 0 0 0 0 0 0 0
+C1: 31 0 0 0 0 0 0 0 0 0 0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 12 31 11 15  0  0   1   0   0    0
+
+@:9 N2 @1 - ST2.MDT
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   64  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31 0 0 0 0 0 0 0 0 0 0
+C1: 31 0 0 0 0 0 0 0 0 0 0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 12 31  6 15  0  0   1   0   0    0
+
+@:10 N3 @1 - most files
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   31
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   88  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31  0  0  0  0 30  0   2   0   0    0
+C1: 31  9  0  5 15  0  0   1   0   0    0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 11  0  6 15  0  0   1   0   0    0
+
+@:11 W12 N2 @0 - KAMI2.MDT
+//  LFRQ AMD PMD WF NFRQ
+LFO:   0   0   0  0   12
+//  PAN FL ALG AMS PMS MASK C2NE
+CH:  64  7   6   0   0   64  128
+//  AR DR SR RR SL TL KS MUL DT1 DT2 AMSE
+M1: 31 0 0 0 0 0 0 0 0 0 0
+C1: 31 0 0 0 0 0 0 0 0 0 0
+M2: 31 0 0 0 0 0 0 0 0 0 0
+C2: 31 17 31  8 15  0  0   1   0   0    0
